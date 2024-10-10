@@ -1,6 +1,6 @@
 {
   "name": "form-checker-js",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "description": "A schema-based form validation package for React, Node.js, and Next.js.",
   "main": "src/index.js",
   "scripts": {
@@ -22,6 +22,18 @@
     "node",
     "next"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OpenPackStudio/form-checker-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/OpenPackStudio/form-checker-js/issues"
+  },
+  "homepage": "https://github.com/OpenPackStudio/form-checker-js#readme",
+  "funding": {
+    "type": "individual",
+    "url": "https://github.com/sponsors/356Adhil"
+  },
   "author": "Adhil Akbar",
   "license": "MIT"
 }
