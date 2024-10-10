@@ -1,0 +1,27 @@
+{
+  "name": "form-checker-js",
+  "version": "1.2.1",
+  "description": "A schema-based form validation package for React, Node.js, and Next.js.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest",
+    "build": "babel src --out-dir lib",
+    "prepublishOnly": "npm run build"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^29.0.0",
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0"
+  },
+  "keywords": [
+    "validation",
+    "form",
+    "schema",
+    "react",
+    "node",
+    "next"
+  ],
+  "author": "Adhil Akbar",
+  "license": "MIT"
+}
